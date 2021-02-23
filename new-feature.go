@@ -1,2 +1,1 @@
-content new version
-from Ukrain with love!
+some content
